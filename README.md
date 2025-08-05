@@ -2,6 +2,11 @@
 
 This project demonstrates how to build and fine-tune a medical chatbot leveraging the DeepSeek-R1-Distill-Llama-8B model using the [Unsloth](https://github.com/unslothai/unsloth) framework in Google Colab. The workflow walks through environment setup, data preparation, model loading, fine-tuning, and inference, focusing on clinical reasoning and chain-of-thought (CoT) style answers for medical questions.
 
+## ⚠️ Note
+
+> My previous GitHub account was unexpectedly suspended. This project was originally created earlier and has been re-uploaded here. All work was done gradually over time, and original commit history has been preserved where possible.
+
+
 ## Table of Contents
 
 - [Features](#features)
